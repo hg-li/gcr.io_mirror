@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.14.7
+FROM quay.io/coreos/prometheus-config-reloader:v0.28.0
