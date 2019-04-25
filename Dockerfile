@@ -1,1 +1,1 @@
-FROM quay.io/coreos/prometheus-config-reloader:v0.28.0
+FROM gcr.io/google-containers/addon-resizer-amd64:2.1
