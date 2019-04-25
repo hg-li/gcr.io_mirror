@@ -1,1 +1,1 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.12.1
+FROM ubuntu:16.04
